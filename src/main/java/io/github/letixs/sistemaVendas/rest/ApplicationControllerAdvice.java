@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.server.ResponseStatusException;
 
-import io.github.letixs.exceptions.ApiErrors;
+import io.github.letixs.sistemaVendas.exceptions.ApiErrors;
 
 @RestControllerAdvice
 public class ApplicationControllerAdvice {

@@ -1,4 +1,4 @@
-package io.github.letixs.exceptions;
+package io.github.letixs.sistemaVendas.exceptions;
 
 import java.util.Arrays;
 import java.util.List;
